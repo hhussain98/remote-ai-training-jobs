@@ -1,0 +1,31 @@
+name: Weekly update
+
+# Fetches the README that redpenjobs.com builds from its own data and commits it.
+# The list is generated there, so every figure matches the site.
+on:
+  schedule:
+    - cron: '0 7 * * 1'   # Mondays 07:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the README
+        run: |
+          curl -fsSL --retry 3 https://redpenjobs.com/feeds/github-readme.md -o README.new
+          # Refuse anything that is not the list (an error page, a redirect, an empty file).
+          head -1 README.new | grep -qx '# Remote AI Training Jobs'
+          [ "$(wc -c < README.new)" -gt 5000 ]
+          mv README.new README.md
+      - name: Commit if changed
+        run: |
+          git config user.name "redpenjobs-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: weekly update $(date -u +%F)"
+          git push
