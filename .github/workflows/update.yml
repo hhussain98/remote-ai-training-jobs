@@ -4,7 +4,7 @@ name: Update every 3 days
 # The list is generated there, so every figure matches the site.
 on:
   schedule:
-    - cron: '0 7 */3 * *'   # 07:00 UTC on day 1, 4, 7 … 31 of each month: every 3 days (2 at a month change)
+    - cron: '0 7 */3 * *'   # 07:00 UTC on day 1, 4, 7 … of each month: every 3 days, except the gap into the 1st can be 1 day
   workflow_dispatch:
 
 permissions:
