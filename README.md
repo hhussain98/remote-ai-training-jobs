@@ -3,7 +3,7 @@
 Paid remote work checking and training AI models, sorted by profession. Every role shows the pay its posting
 states. Updated every 3 days from [Red Pen Jobs](https://redpenjobs.com/), which re-reads each platform daily.
 
-**986 open roles · 26 professions · 7 platforms · updated 2026-11-04**
+**757 open roles · 26 professions · 6 platforms · updated 2026-11-07**
 
 ## Contents
 
@@ -29,7 +29,7 @@ checks medical answers, a lawyer checks legal ones, a developer checks code. Typ
 - **Red-teaming.** Try to make a model give a wrong or unsafe answer, and record how.
 - **Paid interviews and studies.** A single session about how you do your job.
 
-Most of it is remote contract work. Today's hourly roles pay $6–450 an hour. Another 31 pay a fixed fee per session or task.
+Most of it is remote contract work. Today's hourly roles pay $6–450 an hour. Another 29 pay a fixed fee per session or task.
 
 ## Getting started
 
@@ -56,17 +56,16 @@ Every platform we list roles from. Pay covers hourly roles only, from today's po
 
 | Platform | How it works | Open roles | Hourly pay listed | More |
 |---|---|---:|---|---|
-| micro1 | Anyone can apply; a 20 to 40 minute AI interview; remote contractor work. | 290 | $6–400 | [Overview](https://redpenjobs.com/platforms/micro1/) |
-| Mercor | Remote contract work, mostly hourly; a resume, assessments and an AI interview of about 20 minutes. | 221 | $15–450 | [Overview](https://redpenjobs.com/platforms/mercor/) |
-| AfterQuery | Remote project-based expert work; an interview and a short skills assessment to qualify. | 237 | $15–175 | [Overview](https://redpenjobs.com/platforms/afterquery/) |
+| micro1 | Anyone can apply; a 20 to 40 minute AI interview; remote contractor work. | 302 | $6–400 | [Overview](https://redpenjobs.com/platforms/micro1/) |
+| Mercor | Remote contract work, mostly hourly; a resume, assessments and an AI interview of about 20 minutes. | 216 | $15–450 | [Overview](https://redpenjobs.com/platforms/mercor/) |
 | Turing | Remote contract AI-training work; an application, proctored tests on some roles, then interviews; pay stated per role, not by Turing as a platform-wide rate. | 17 | $15–150 | [Overview](https://redpenjobs.com/platforms/turing/) |
 | SME Careers | Remote hourly AI training work for subject matter experts; a CV, a 15-minute AI video interview and a review by SME's team to qualify. | 185 | up to $150 | [Overview](https://redpenjobs.com/platforms/smecareers/) |
-| Ethos | An expert network: one profile reviewed by Ethos, sometimes a short AI voice screen, then matched to paid AI-training projects for experienced professionals. | 864 | $70–100 | [Overview](https://redpenjobs.com/platforms/ethos/) |
-| Sovrano AI | A Barcelona-based platform where experts evaluate and train AI models: assessments and an AI interview, then hourly or per-task contract work. | 39 | $35–180 | [Overview](https://redpenjobs.com/platforms/sovrano/) |
+| Ethos | An expert network: one profile reviewed by Ethos, sometimes a short AI voice screen, then matched to paid AI-training projects for experienced professionals. | 876 | $70–100 | [Overview](https://redpenjobs.com/platforms/ethos/) |
+| Sovrano AI | A Barcelona-based platform where experts evaluate and train AI models: assessments and an AI interview, then hourly or per-task contract work. | 40 | $35–125 | [Overview](https://redpenjobs.com/platforms/sovrano/) |
 
 ## Platform guides
 
-- [micro1 vs Mercor: which to apply to, and how each pays](https://redpenjobs.com/learn/platforms/micro1-vs-mercor/): Both screen with one AI interview. micro1 pays twice a month and expects 15 to 20 hours a week. Mercor pays weekly. Compared side by side and by profession.
+- [micro1 vs Mercor: pay, hiring and which to apply to](https://redpenjobs.com/learn/platforms/micro1-vs-mercor/): Compare micro1 and Mercor on stated pay, AI interviews, how and when each pays, and who each suits, with the same professions side by side.
 - [The micro1 hiring process, step by step](https://redpenjobs.com/learn/platforms/micro1-hiring-process/): micro1 has published its own hiring process: four steps, the timings it states for each, what certification gets you, and how payment works through Deel.
 - [How to pass micro1's Zara AI interview](https://redpenjobs.com/learn/platforms/micro1-zara-ai-interview-guide/): What Zara asks, how she builds questions from your introduction, where to take a free practice interview, and what each result status means.
 - [Every micro1 application status, explained](https://redpenjobs.com/learn/platforms/micro1-application-status/): All ten statuses on micro1's talent dashboard, the difference between did not qualify and not selected, and what to do about each.
@@ -79,18 +78,18 @@ Every platform we list roles from. Pay covers hourly roles only, from today's po
 - [The four ways Mercor work stops, and what each one means](https://redpenjobs.com/learn/platforms/mercor-contract-endings/): Paused, project ended, performance offboarding and policy violation are four different Mercor events. What each means for you and your pay.
 - [Is Ethos legit, and what does it pay?](https://redpenjobs.com/learn/platforms/ethos-guide/): Who runs Ethos, how its profile review and AI voice screen work, how it pays through Revolut or Wise, and the terms to read before your first project.
 - [Is Turing legit, and how often does it pay?](https://redpenjobs.com/learn/platforms/turing-guide/): Who runs Turing, why its own pages give three different pay dates, how Deel and direct bank payments work, and what ends a Turing contract early.
-- [micro1 alternatives: where to apply while you wait](https://redpenjobs.com/learn/platforms/micro1-alternatives/): Four platforms that state pay on every role, how each screens and pays, and which suits you after a micro1 status of waiting, not selected or did not qualify.
-- [Mercor alternatives: where to apply after no reply](https://redpenjobs.com/learn/platforms/mercor-alternatives/): Mercor gives no feedback and no time to a decision. Four platforms that state pay on every role, how each screens and pays, and who each one suits.
-- [SME Careers alternatives: where to apply while you wait](https://redpenjobs.com/learn/platforms/sme-careers-alternatives/): Qualified on SME Careers but no project yet? Four platforms that state pay on every role, how each screens and pays, and who each one is for.
-- [Is Outlier AI legit, and what does it pay?](https://redpenjobs.com/learn/platforms/outlier-guide/): Outlier AI runs under Scale AI's Smart Ecosystem affiliate, not a scam. It publishes no single pay rate, only a figure per track, and pays weekly on Tuesdays.
+- [micro1 alternatives: where to apply while you wait](https://redpenjobs.com/learn/platforms/micro1-alternatives/): Three platforms that state pay on every role, how each screens and pays, and which suits you after a micro1 status of waiting, not selected or did not qualify.
+- [Mercor alternatives: where to apply after no reply](https://redpenjobs.com/learn/platforms/mercor-alternatives/): Mercor gives no feedback and no time to a decision. Three platforms that state pay on every role, how each screens and pays, and who each one suits.
+- [SME Careers alternatives: where to apply while you wait](https://redpenjobs.com/learn/platforms/sme-careers-alternatives/): Qualified on SME Careers but no project yet? Three platforms that state pay on every role, how each screens and pays, and who each one is for.
+- [Is Outlier AI legit, and what does it pay?](https://redpenjobs.com/learn/platforms/outlier-guide/): Check who runs Outlier AI, what its pages say it pays, when it pays, how to spot fake recruiters, and what Trustpilot and a reported lawsuit show.
 - [Outlier alternatives that publish their pay](https://redpenjobs.com/learn/platforms/outlier-alternatives/): Platforms with posted roles and stated pay for people leaving Outlier, grouped by background: generalist, coding, languages, and STEM and research.
 - [Outlier vs Mercor: task tracks or an hourly rate](https://redpenjobs.com/learn/platforms/outlier-vs-mercor/): Outlier pays per task track, with no promise the queue refills. Mercor posts roles with a stated hourly rate and one short AI interview.
 - [micro1 vs Outlier: posted roles or task tracks](https://redpenjobs.com/learn/platforms/micro1-vs-outlier/): micro1 posts roles with the pay on each and one AI interview. Outlier sorts work into tracks with their own pay and an assessment.
-- [Outlier vs DataAnnotation: which to apply to first](https://redpenjobs.com/learn/platforms/outlier-vs-dataannotation/): Outlier prices work per track with no site-wide rate. DataAnnotation lists a starting rate per track after one assessment. Pay, screening and staying in.
+- [Outlier vs DataAnnotation: pay, hiring and who each suits](https://redpenjobs.com/learn/platforms/outlier-vs-dataannotation/): Compare Outlier and DataAnnotation on stated pay, how each hires, how and when each pays, and who each suits, from their own pages.
 - [Alignerr vs Outlier: listings or task tracks](https://redpenjobs.com/learn/platforms/alignerr-vs-outlier/): Alignerr posts a pay range on each listing. Outlier prices work per track, with no platform-wide rate. How each one screens, pays and keeps you on.
-- [DataAnnotation review: is it legit, and what it pays](https://redpenjobs.com/learn/platforms/dataannotation-guide/): DataAnnotation runs as Surge Labs, Inc. It lists generalist work from $25-50 an hour, pays only through PayPal, and often leaves applicants unanswered.
+- [Is DataAnnotation legit, and what does it pay?](https://redpenjobs.com/learn/platforms/dataannotation-guide/): Check who runs DataAnnotation, what it lists per track, how PayPal pay works, how to spot fake recruiters, and what Trustpilot and reported lawsuits show.
 - [DataAnnotation alternatives that publish their pay](https://redpenjobs.com/learn/platforms/dataannotation-alternatives/): Platforms that post AI training work with pay stated on the listing, for readers looking past DataAnnotation's one-time assessment and its silence.
-- [DataAnnotation vs Mercor: assessment or AI interview](https://redpenjobs.com/learn/platforms/dataannotation-vs-mercor/): DataAnnotation matches you to tracks after one assessment. Mercor posts roles with a stated hourly rate and screens with an AI interview.
+- [DataAnnotation vs Mercor: pay, hiring and who each suits](https://redpenjobs.com/learn/platforms/dataannotation-vs-mercor/): Compare DataAnnotation and Mercor on stated pay, how each hires, how and when each pays, and who each suits, from their own pages.
 - [DataAnnotation vs Alignerr: track rates or listing rates](https://redpenjobs.com/learn/platforms/dataannotation-vs-alignerr/): DataAnnotation sets a starting rate per track after one assessment. Alignerr posts a range on each listing. Pay, screening and countries compared.
 - [Is Alignerr legit, and what does it pay?](https://redpenjobs.com/learn/platforms/alignerr-guide/): Alignerr is a real Labelbox contractor network with a public board of 5,624 roles. What its own pages say about pay and screening, and what applicants report.
 - [Alignerr alternatives that post a rate on every role](https://redpenjobs.com/learn/platforms/alignerr-alternatives/): Platforms that state pay on every AI training role, grouped by background: domain experts, software and data, languages, and no specialism.
@@ -99,48 +98,45 @@ Every platform we list roles from. Pay covers hourly roles only, from today's po
 - [OpenTrain AI review: is it legit, and what does it pay?](https://redpenjobs.com/learn/platforms/opentrain-guide/): Who runs OpenTrain AI, what its listed roles pay, the fee its own pages disagree on, and what happens when a listing sends you to another site.
 - [Mercor vs Turing: AI interview or proctored tests](https://redpenjobs.com/learn/platforms/mercor-vs-turing/): Mercor screens with one AI interview and pays every Wednesday. Turing uses proctored tests and an interview, and its own pages disagree on pay dates.
 - [Mercor vs SME Careers: stated rates or country maximums](https://redpenjobs.com/learn/platforms/mercor-vs-sme-careers/): Mercor states a rate per role and pays on Wednesdays. SME Careers posts maximums that vary by country and pays through Deel. Compared by profession.
-- [AfterQuery vs micro1: a skills test or an AI interview](https://redpenjobs.com/learn/platforms/afterquery-vs-micro1/): AfterQuery tests you once in your field and pays weekly through Stripe. micro1 interviews you with its AI, Zara, and pays twice a month.
 - [Ethos vs Mercor: one profile or one AI interview](https://redpenjobs.com/learn/platforms/ethos-vs-mercor/): Ethos matches senior professionals from one profile and pays per project. Mercor screens with a 20 minute AI interview and pays weekly.
-- [How to prepare for AfterQuery's skills assessment](https://redpenjobs.com/learn/platforms/afterquery-skills-assessment-guide/): AfterQuery gives you one unpaid attempt and never says if you passed. The AI work it tests for, the one-line interview, and onboarding.
 - [How to prepare for Mercor's AI interview](https://redpenjobs.com/learn/platforms/mercor-ai-interview-guide/): Mercor builds its 20-minute AI interview from your resume. Retakes and what they cost, the setup checks, freezes, and what Mercor never tells you.
 - [How to prepare for the SME Careers AI interview](https://redpenjobs.com/learn/platforms/sme-careers-ai-interview-guide/): SME Careers gives you one 15-minute AI interview and a retake only if offered. The AI work it tests for, what it asks, setup, results and screening.
 - [How to prepare for Turing's application and proctored tests](https://redpenjobs.com/learn/platforms/turing-application-and-assessment-guide/): Turing's proctored tests disqualify you for 90 days if you pause screen sharing more than four times. Setup, timers, review times and the 6-week silence.
-- [Is AfterQuery legit, and what does it pay?](https://redpenjobs.com/learn/platforms/afterquery-guide/): Check what AfterQuery says about itself, what its postings state for pay, how Stripe pays on Fridays, and which countries it cannot pay.
+- [Is Handshake AI legit, and what does it pay?](https://redpenjobs.com/learn/platforms/handshake-ai-legit/): Check whether Handshake AI is legit, who can join, what it says it pays, how Stripe payouts work, and how to spot fake Handshake messages, from its own pages.
 - [Is Mercor legit, and what does it pay?](https://redpenjobs.com/learn/platforms/mercor-legit/): Check whether Mercor is a real company, how it hires and pays, who can apply, and what it says about its March 2026 data breach, from its own pages.
-- [Is micro1 legit, and what does it pay?](https://redpenjobs.com/learn/platforms/micro1-guide/): Check whether micro1 is a real company, what its postings state for hourly pay, how Deel pays twice a month, and what micro1 does not say about hours.
+- [Is micro1 legit, and what does it pay?](https://redpenjobs.com/learn/platforms/micro1-guide/): Check whether micro1 is legit, what its postings state for pay, how Deel pays twice a month, what happens to recordings, and how to spot fake recruiters.
 - [Is SME Careers legit, and what does it pay?](https://redpenjobs.com/learn/platforms/sme-careers-guide/): SME Careers is SuperAnnotate's expert network. See how it hires, what its roles pay by country, when Deel pays you, and what it does not publish.
 - [Is Sovrano AI legit, and what does it pay?](https://redpenjobs.com/learn/platforms/sovrano-guide/): Check whether Sovrano AI is a real Barcelona company, how its assessments and AI interview work, what its postings pay, and how it pays through Deel.
-- [Mercor vs AfterQuery: AI interview or one skills test](https://redpenjobs.com/learn/platforms/mercor-vs-afterquery/): Both pay weekly through Stripe. Mercor uses an AI interview you can retake three times, AfterQuery one unpaid test. Compared, profession by profession.
 - [micro1 vs SME Careers: AI interviews, pay and countries](https://redpenjobs.com/learn/platforms/micro1-vs-sme-careers/): Both screen with a recorded AI interview and pay through Deel. micro1 pays twice a month. SME Careers pays weekly, with rates set per country.
 
 ## Jobs by profession
 
-- [Bilingual speakers](https://redpenjobs.com/jobs/bilingual-speakers/): 138 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-bilingual-speakers/)
-- [Software engineers](https://redpenjobs.com/jobs/software-engineers/): 96 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-software-engineers/)
-- [Engineers](https://redpenjobs.com/jobs/engineers/): 89 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-engineers/)
-- [Lawyers](https://redpenjobs.com/jobs/lawyers/): 71 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-lawyers/)
-- [Doctors and clinicians](https://redpenjobs.com/jobs/doctors-and-clinicians/): 58 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-doctors/)
-- [Generalists](https://redpenjobs.com/jobs/generalists/): 56 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-generalists/)
-- [Business and operations specialists](https://redpenjobs.com/jobs/business-and-operations/): 50 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-business-and-operations/)
-- [Accountants and finance experts](https://redpenjobs.com/jobs/accountants/): 47 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-accountants/)
-- [Life scientists](https://redpenjobs.com/jobs/life-scientists/): 44 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-life-scientists/)
-- [Researchers and academics](https://redpenjobs.com/jobs/researchers-and-academics/): 36 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-researchers-and-academics/)
-- [Physicists](https://redpenjobs.com/jobs/physicists/): 19 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-physicists/)
-- [Voice and audio recorders](https://redpenjobs.com/jobs/voice-and-audio-recorders/): 17 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-voice-and-audio-recorders/)
-- [Designers](https://redpenjobs.com/jobs/designers/): 17 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-designers/)
-- [Data analysts](https://redpenjobs.com/jobs/data-analysts/): 14 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-data-analysts/)
-- [Machine learning engineers](https://redpenjobs.com/jobs/machine-learning-engineers/): 13 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-machine-learning-engineers/)
-- [Marketing professionals](https://redpenjobs.com/jobs/marketing/): 13 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-marketing/)
-- [CAD and manufacturing specialists](https://redpenjobs.com/jobs/cad-specialists/): 12 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-cad-specialists/)
-- [Transcribers](https://redpenjobs.com/jobs/transcribers/): 11 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-transcribers/)
-- [Writers and editors](https://redpenjobs.com/jobs/writers-and-editors/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-writers-and-editors/)
-- [Sales and CRM specialists](https://redpenjobs.com/jobs/sales-and-crm/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-sales-and-crm/)
-- [Mathematicians and statisticians](https://redpenjobs.com/jobs/mathematicians-and-statisticians/): 9 open roles
-- [Medical coders and auditors](https://redpenjobs.com/jobs/medical-coders-and-auditors/): 9 open roles
-- [Video recorders](https://redpenjobs.com/jobs/video-recorders/): 6 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-video-recorders/)
-- [Video editors and animators](https://redpenjobs.com/jobs/video-editors-and-animators/): 6 open roles
+- [Bilingual speakers](https://redpenjobs.com/jobs/bilingual-speakers/): 96 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-bilingual-speakers/)
+- [Software engineers](https://redpenjobs.com/jobs/software-engineers/): 78 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-software-engineers/)
+- [Engineers](https://redpenjobs.com/jobs/engineers/): 75 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-engineers/)
+- [Lawyers](https://redpenjobs.com/jobs/lawyers/): 63 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-lawyers/)
+- [Generalists](https://redpenjobs.com/jobs/generalists/): 51 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-generalists/)
+- [Doctors and clinicians](https://redpenjobs.com/jobs/doctors-and-clinicians/): 49 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-doctors/)
+- [Business and operations specialists](https://redpenjobs.com/jobs/business-and-operations/): 45 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-business-and-operations/)
+- [Life scientists](https://redpenjobs.com/jobs/life-scientists/): 37 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-life-scientists/)
+- [Accountants and finance experts](https://redpenjobs.com/jobs/accountants/): 35 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-accountants/)
+- [Researchers and academics](https://redpenjobs.com/jobs/researchers-and-academics/): 33 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-researchers-and-academics/)
+- [Voice and audio recorders](https://redpenjobs.com/jobs/voice-and-audio-recorders/): 16 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-voice-and-audio-recorders/)
+- [Designers](https://redpenjobs.com/jobs/designers/): 15 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-designers/)
+- [Physicists](https://redpenjobs.com/jobs/physicists/): 13 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-physicists/)
+- [Data analysts](https://redpenjobs.com/jobs/data-analysts/): 11 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-data-analysts/)
+- [Marketing professionals](https://redpenjobs.com/jobs/marketing/): 11 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-marketing/)
+- [CAD and manufacturing specialists](https://redpenjobs.com/jobs/cad-specialists/): 10 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-cad-specialists/)
+- [Machine learning engineers](https://redpenjobs.com/jobs/machine-learning-engineers/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-machine-learning-engineers/)
+- [Transcribers](https://redpenjobs.com/jobs/transcribers/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-transcribers/)
+- [Video recorders](https://redpenjobs.com/jobs/video-recorders/): 8 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-video-recorders/)
+- [Medical coders and auditors](https://redpenjobs.com/jobs/medical-coders-and-auditors/): 8 open roles
+- [Mathematicians and statisticians](https://redpenjobs.com/jobs/mathematicians-and-statisticians/): 6 open roles
+- [Writers and editors](https://redpenjobs.com/jobs/writers-and-editors/): 5 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-writers-and-editors/)
+- [Sales and CRM specialists](https://redpenjobs.com/jobs/sales-and-crm/): 5 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-sales-and-crm/)
+- [Video editors and animators](https://redpenjobs.com/jobs/video-editors-and-animators/): 5 open roles
 - [QA engineers](https://redpenjobs.com/jobs/qa-engineers/): 3 open roles
-- [IT support specialists](https://redpenjobs.com/jobs/it-support-specialists/): 2 open roles
+- [IT support specialists](https://redpenjobs.com/jobs/it-support-specialists/): 1 open roles
 
 ## Highest-paying roles this week
 
@@ -168,16 +164,16 @@ Hourly roles only. A fee per session or task can't be compared with an hourly ra
 
 | Role | Pay, as the posting states it | Platform | Open to |
 |---|---|---|---|
-| [Chief Engineer / Senior Mechanical Engineer](https://redpenjobs.com/job/chief-engineer-senior-mechanical-engineer-4ee8/) | $200–300 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
-| [Systems Architect / Chief Systems Architect](https://redpenjobs.com/job/systems-architect-chief-systems-architect-fcb3/) | $150–300 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
-| [Principal / Lead Systems Engineer](https://redpenjobs.com/job/principal-lead-systems-engineer-2734/) | $150–300 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
-| [LibreCAD Expert](https://redpenjobs.com/job/librecad-expert-5a61/) | $65–165 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
-| [Open Source Maintainer / Core Contributor – Software Engineer](https://redpenjobs.com/job/open-source-maintainer-core-contributor-software-engineer-bbdkw2/) | $150 an hour | Mercor | United States |
-| [Nuclear Science & Engineering Expert (AI Safety)](https://redpenjobs.com/job/nuclear-science-engineering-expert-ai-safety-aq8975/) | $150 an hour | AfterQuery | US, UK, Canada, Australia, NZ & Western Europe |
-| [Materials Science Expert (AI Safety)](https://redpenjobs.com/job/materials-science-expert-ai-safety-aq2994/) | $150 an hour | AfterQuery | US, UK, Canada, Australia, NZ & Western Europe |
-| [Explosives & Energetic Materials Engineer (AI Safety)](https://redpenjobs.com/job/explosives-energetic-materials-engineer-ai-safety-aq8506/) | $150 an hour | AfterQuery | US, UK, Canada, Australia, NZ & Western Europe |
-| [Radiologist / Radiation Sciences Expert (AI Safety)](https://redpenjobs.com/job/radiologist-radiation-sciences-expert-ai-safety-aq6402/) | $150 an hour | AfterQuery | US, UK, Canada, Australia, NZ & Western Europe |
-| [Radioactive Materials & Health Physics Expert (AI Safety)](https://redpenjobs.com/job/radioactive-materials-health-physics-expert-ai-safety-aq8711/) | $150 an hour | AfterQuery | US, UK, Canada, Australia, NZ & Western Europe |
+| [MBSE Engineer - SysML v2](https://redpenjobs.com/job/mbse-engineer-sysml-v2-8548/) | $55–120 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Computational Bioscience Expert (Python)](https://redpenjobs.com/job/computational-bioscience-expert-python-8f4f/) | $60–120 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Personal Financial Advisor](https://redpenjobs.com/job/personal-financial-advisor-2623/) | $90–110 an hour | micro1 | United States, Canada, Latin America |
+| [Frontend / UI Engineer](https://redpenjobs.com/job/frontend-ui-engineer-526b/) | $70–100 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Mechanical Engineer Reviewer](https://redpenjobs.com/job/mechanical-engineer-reviewer-janooh/) | $90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Electrical Engineer Reviewer](https://redpenjobs.com/job/electrical-engineer-reviewer-vjtlt9/) | $90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Civil Engineer Reviewer](https://redpenjobs.com/job/civil-engineer-reviewer-zbyqso/) | $90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Network Engineering & Simulation Expert — Hephaestus](https://redpenjobs.com/job/network-engineering-simulation-expert-hephaestus-hbp7gf/) | $70–90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Electrical Engineering & Simulation Expert — Hephaestus](https://redpenjobs.com/job/electrical-engineering-simulation-expert-hephaestus-tgozk0/) | $70–90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Mechanical Engineering & Simulation Expert — Hephaestus](https://redpenjobs.com/job/mechanical-engineering-simulation-expert-hephaestus-velrab/) | $70–90 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
 
 ## How this list works
 
