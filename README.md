@@ -3,7 +3,7 @@
 Paid remote work checking and training AI models, sorted by profession. Every role shows the pay its posting
 states. Updated every 3 days from [Red Pen Jobs](https://redpenjobs.com/), which re-reads each platform daily.
 
-**748 open roles · 26 professions · 7 platforms · updated 2026-11-13**
+**775 open roles · 26 professions · 7 platforms · updated 2026-11-16**
 
 ## Contents
 
@@ -29,7 +29,7 @@ checks medical answers, a lawyer checks legal ones, a developer checks code. Typ
 - **Red-teaming.** Try to make a model give a wrong or unsafe answer, and record how.
 - **Paid interviews and studies.** A single session about how you do your job.
 
-Most of it is remote contract work. Today's hourly roles pay $2–400 an hour. Another 36 pay a fixed fee per session or task.
+Most of it is remote contract work. Today's hourly roles pay $2–400 an hour. Another 37 pay a fixed fee per session or task.
 
 ## Getting started
 
@@ -56,13 +56,13 @@ Every platform we list roles from. Pay covers hourly roles only, from today's po
 
 | Platform | How it works | Open roles | Hourly pay listed | More |
 |---|---|---:|---|---|
-| micro1 | Anyone can apply; a 20 to 40 minute AI interview; remote contractor work. | 259 | $6–400 | [Overview](https://redpenjobs.com/platforms/micro1/) |
-| Mercor | Remote contract work, mostly hourly; a resume, assessments and an AI interview of about 20 minutes. | 190 | $15–350 | [Overview](https://redpenjobs.com/platforms/mercor/) |
-| Terac | Paid expert sessions and projects (mostly interviews and surveys) with a short AI screener and ID verification. | 50 | $2–150 | [Overview](https://redpenjobs.com/platforms/terac/) |
+| micro1 | Anyone can apply; a 20 to 40 minute AI interview; remote contractor work. | 245 | $6–400 | [Overview](https://redpenjobs.com/platforms/micro1/) |
+| Mercor | Remote contract work, mostly hourly; a resume, assessments and an AI interview of about 20 minutes. | 234 | $15–350 | [Overview](https://redpenjobs.com/platforms/mercor/) |
+| Terac | Paid expert sessions and projects (mostly interviews and surveys) with a short AI screener and ID verification. | 48 | $2–150 | [Overview](https://redpenjobs.com/platforms/terac/) |
 | Turing | Remote contract AI-training work; an application, proctored tests on some roles, then interviews; pay stated per role, not by Turing as a platform-wide rate. | 17 | $15–150 | [Overview](https://redpenjobs.com/platforms/turing/) |
 | SME Careers | Remote hourly AI training work for subject matter experts; a CV, a 15-minute AI video interview and a review by SME's team to qualify. | 193 | up to $150 | [Overview](https://redpenjobs.com/platforms/smecareers/) |
-| Ethos | An expert network: one profile reviewed by Ethos, sometimes a short AI voice screen, then matched to paid AI-training projects for experienced professionals. | 756 | $70–100 | [Overview](https://redpenjobs.com/platforms/ethos/) |
-| Sovrano AI | A Barcelona-based platform where experts evaluate and train AI models: assessments and an AI interview, then hourly or per-task contract work. | 40 | $35–125 | [Overview](https://redpenjobs.com/platforms/sovrano/) |
+| Ethos | An expert network: one profile reviewed by Ethos, sometimes a short AI voice screen, then matched to paid AI-training projects for experienced professionals. | 765 | $70–100 | [Overview](https://redpenjobs.com/platforms/ethos/) |
+| Sovrano AI | A Barcelona-based platform where experts evaluate and train AI models: assessments and an AI interview, then hourly or per-task contract work. | 39 | $35–125 | [Overview](https://redpenjobs.com/platforms/sovrano/) |
 
 ## Platform guides
 
@@ -114,30 +114,30 @@ Every platform we list roles from. Pay covers hourly roles only, from today's po
 
 ## Jobs by profession
 
-- [Bilingual speakers](https://redpenjobs.com/jobs/bilingual-speakers/): 94 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-bilingual-speakers/)
-- [Software engineers](https://redpenjobs.com/jobs/software-engineers/): 76 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-software-engineers/)
-- [Engineers](https://redpenjobs.com/jobs/engineers/): 58 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-engineers/)
-- [Generalists](https://redpenjobs.com/jobs/generalists/): 55 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-generalists/)
-- [Business and operations specialists](https://redpenjobs.com/jobs/business-and-operations/): 55 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-business-and-operations/)
+- [Bilingual speakers](https://redpenjobs.com/jobs/bilingual-speakers/): 131 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-bilingual-speakers/)
+- [Software engineers](https://redpenjobs.com/jobs/software-engineers/): 70 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-software-engineers/)
+- [Generalists](https://redpenjobs.com/jobs/generalists/): 54 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-generalists/)
+- [Business and operations specialists](https://redpenjobs.com/jobs/business-and-operations/): 54 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-business-and-operations/)
 - [Lawyers](https://redpenjobs.com/jobs/lawyers/): 52 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-lawyers/)
-- [Doctors and clinicians](https://redpenjobs.com/jobs/doctors-and-clinicians/): 50 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-nurses/)
-- [Accountants and finance experts](https://redpenjobs.com/jobs/accountants/): 34 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-accountants/)
-- [Life scientists](https://redpenjobs.com/jobs/life-scientists/): 32 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-life-scientists/)
-- [Researchers and academics](https://redpenjobs.com/jobs/researchers-and-academics/): 27 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-researchers-and-academics/)
-- [Voice and audio recorders](https://redpenjobs.com/jobs/voice-and-audio-recorders/): 16 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-voice-and-audio-recorders/)
-- [Designers](https://redpenjobs.com/jobs/designers/): 14 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-designers/)
+- [Engineers](https://redpenjobs.com/jobs/engineers/): 52 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-engineers/)
+- [Doctors and clinicians](https://redpenjobs.com/jobs/doctors-and-clinicians/): 51 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-nurses/)
+- [Accountants and finance experts](https://redpenjobs.com/jobs/accountants/): 38 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-accountants/)
+- [Life scientists](https://redpenjobs.com/jobs/life-scientists/): 31 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-life-scientists/)
+- [Researchers and academics](https://redpenjobs.com/jobs/researchers-and-academics/): 25 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-researchers-and-academics/)
+- [Voice and audio recorders](https://redpenjobs.com/jobs/voice-and-audio-recorders/): 15 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-voice-and-audio-recorders/)
+- [Physicists](https://redpenjobs.com/jobs/physicists/): 13 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-physicists/)
 - [Marketing professionals](https://redpenjobs.com/jobs/marketing/): 13 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-marketing/)
 - [Machine learning engineers](https://redpenjobs.com/jobs/machine-learning-engineers/): 12 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-machine-learning-engineers/)
-- [CAD and manufacturing specialists](https://redpenjobs.com/jobs/cad-specialists/): 10 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-cad-specialists/)
-- [Physicists](https://redpenjobs.com/jobs/physicists/): 10 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-physicists/)
-- [Sales and CRM specialists](https://redpenjobs.com/jobs/sales-and-crm/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-sales-and-crm/)
-- [Video recorders](https://redpenjobs.com/jobs/video-recorders/): 7 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-video-recorders/)
+- [Video recorders](https://redpenjobs.com/jobs/video-recorders/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-video-recorders/)
+- [Transcribers](https://redpenjobs.com/jobs/transcribers/): 9 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-transcribers/)
+- [Designers](https://redpenjobs.com/jobs/designers/): 8 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-designers/)
+- [Sales and CRM specialists](https://redpenjobs.com/jobs/sales-and-crm/): 8 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-sales-and-crm/)
 - [Data analysts](https://redpenjobs.com/jobs/data-analysts/): 7 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-data-analysts/)
 - [Mathematicians and statisticians](https://redpenjobs.com/jobs/mathematicians-and-statisticians/): 7 open roles
 - [Medical coders and auditors](https://redpenjobs.com/jobs/medical-coders-and-auditors/): 6 open roles
 - [Video editors and animators](https://redpenjobs.com/jobs/video-editors-and-animators/): 6 open roles
+- [CAD and manufacturing specialists](https://redpenjobs.com/jobs/cad-specialists/): 5 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-cad-specialists/)
 - [Writers and editors](https://redpenjobs.com/jobs/writers-and-editors/): 4 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-writers-and-editors/)
-- [Transcribers](https://redpenjobs.com/jobs/transcribers/): 4 open roles · [guide](https://redpenjobs.com/learn/professions/ai-training-work-for-transcribers/)
 - [QA engineers](https://redpenjobs.com/jobs/qa-engineers/): 4 open roles
 - [IT support specialists](https://redpenjobs.com/jobs/it-support-specialists/): 1 open roles
 
@@ -167,16 +167,16 @@ Hourly roles only. A fee per session or task can't be compared with an hourly ra
 
 | Role | Pay, as the posting states it | Platform | Open to |
 |---|---|---|---|
-| [Radiologist](https://redpenjobs.com/job/radiologist-felrjz/) | $350 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Cardiologist](https://redpenjobs.com/job/cardiologist-jdu7wl/) | $350 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Anesthesiologist](https://redpenjobs.com/job/anesthesiologist-nk6kyx/) | $350 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Dermatologist](https://redpenjobs.com/job/dermatologist-ppf7u3/) | $275 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [General Surgeon](https://redpenjobs.com/job/general-surgeon-vji7wh/) | $200 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Critical Care Physician](https://redpenjobs.com/job/critical-care-physician-zpdawt/) | $200 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Rheumatologist](https://redpenjobs.com/job/rheumatologist-5by6j1/) | $200 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Nephrologist](https://redpenjobs.com/job/nephrologist-5m26cl/) | $200 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Infectious Disease Physician](https://redpenjobs.com/job/infectious-disease-physician-dowazx/) | $200 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
-| [Medical Oncologist](https://redpenjobs.com/job/medical-oncologist-868d/) | $160–180 an hour | micro1 | United States |
+| [Physics Expert (PhD / Postdoc)](https://redpenjobs.com/job/physics-expert-phd-postdoc-94cc/) | $100–170 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Physics Expert (Gravity and Holography)](https://redpenjobs.com/job/physics-expert-gravity-and-holography-6051/) | $100–170 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Physics Expert (Quantum Optics and Atomic Physics)](https://redpenjobs.com/job/physics-expert-quantum-optics-and-atomic-physics-72c4/) | $100–170 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [Investment Banking Expert](https://redpenjobs.com/job/investment-banking-expert-flplqp/) | $110 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Legal Research Attorney](https://redpenjobs.com/job/legal-research-attorney-2777/) | $50–110 an hour | micro1 | US, UK, Canada, Australia, NZ & Western Europe |
+| [FP&A Expert](https://redpenjobs.com/job/fp-a-expert-z5bdyn/) | $100 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [HR Expert](https://redpenjobs.com/job/hr-expert-bbqavc/) | $95 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [Accounting Expert](https://redpenjobs.com/job/accounting-expert-3pc7ij/) | $95 an hour | Mercor | United States |
+| [Fab Safety and Emergency Response Expert](https://redpenjobs.com/job/fab-safety-and-emergency-response-expert-njllpy/) | $85 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
+| [AI Evaluation Rubric Reviewer](https://redpenjobs.com/job/ai-evaluation-rubric-reviewer-xoz7g1/) | $40–75 an hour | Mercor | US, UK, Canada, Australia, NZ & Western Europe |
 
 ## How this list works
 
